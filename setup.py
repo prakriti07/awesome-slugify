@@ -16,7 +16,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'regex',
-        'Unidecode>=0.04.14,<1.1',
+        'Unidecode>0.04.14,<1.0.23',
     ],
 
     license='GNU GPLv3',
